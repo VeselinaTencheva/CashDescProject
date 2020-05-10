@@ -1,0 +1,1 @@
+Receipt{idNumber=2, cashier=Cashier{name='Nancy', idNumber=2}, date=15/12/2018 10:30, listOfGoods=[Goods{idNumber=3, name='Strawberries', price=4.5, expirationDate=2019-12-12}, Goods{idNumber=3, name='Strawberries', price=4.5, expirationDate=2019-12-12}, Goods{idNumber=3, name='Strawberries', price=4.5, expirationDate=2019-12-12}]}
